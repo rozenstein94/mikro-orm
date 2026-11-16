@@ -40,23 +40,23 @@ __metadata:
   linkType: hard
 
 "@algolia/autocomplete-core@npm:^1.19.2":
-  version: 1.19.12
-  resolution: "@algolia/autocomplete-core@npm:1.19.12"
+  version: 1.19.13
+  resolution: "@algolia/autocomplete-core@npm:1.19.13"
   dependencies:
-    "@algolia/autocomplete-plugin-algolia-insights": "npm:1.19.12"
-    "@algolia/autocomplete-shared": "npm:1.19.12"
-  checksum: 10/667b485d0ba447ee79215577701aa6e17ffb358f169bb33bc872f3c925e986cbd6ebb1bd6da70abd269c779604b24a4eec51e0e10acc995318ff8084014d61c8
+    "@algolia/autocomplete-plugin-algolia-insights": "npm:1.19.13"
+    "@algolia/autocomplete-shared": "npm:1.19.13"
+  checksum: 10/5c6413adecf5a87dfedb88001e70e66287dc98716a3aab7849c3550ecc21ac01d3915f007630c815e8d2bd00cfd5769b0341fa40079962ce565a18aed4e79626
   languageName: node
   linkType: hard
 
-"@algolia/autocomplete-plugin-algolia-insights@npm:1.19.12":
-  version: 1.19.12
-  resolution: "@algolia/autocomplete-plugin-algolia-insights@npm:1.19.12"
+"@algolia/autocomplete-plugin-algolia-insights@npm:1.19.13":
+  version: 1.19.13
+  resolution: "@algolia/autocomplete-plugin-algolia-insights@npm:1.19.13"
   dependencies:
-    "@algolia/autocomplete-shared": "npm:1.19.12"
+    "@algolia/autocomplete-shared": "npm:1.19.13"
   peerDependencies:
     search-insights: ">= 1 < 3"
-  checksum: 10/a37841bbfbf27b7211fb7e52f3ec3fcc2782d092cad3e96904354469ed1567edf0654fdec0dc2ff789bbae555bc2beb33543572a0f201dacc8c7f60823c78c88
+  checksum: 10/2bbd1d0243c17f3979b91e24f75ba7464ddbda6bf2a96a88b2007c0346b2381f8081a96a40127fb57c34cdc661177bf9e6730ee373b6388707c2fdcb2140cb9a
   languageName: node
   linkType: hard
 
@@ -71,13 +71,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@algolia/autocomplete-shared@npm:1.19.12":
-  version: 1.19.12
-  resolution: "@algolia/autocomplete-shared@npm:1.19.12"
+"@algolia/autocomplete-shared@npm:1.19.13":
+  version: 1.19.13
+  resolution: "@algolia/autocomplete-shared@npm:1.19.13"
   peerDependencies:
     "@algolia/client-search": ">= 4.9.1 < 6"
     algoliasearch: ">= 4.9.1 < 6"
-  checksum: 10/89e6d55538af44a7c6f2199e400aa51f13484ca1891d930a62775ea7b86a0e9c31a8180caf7831de735eaf3794043a4ed53ae57ca24e6ba3790fdbec779a22ec
+  checksum: 10/e53b73242624c94ac5d19c057a03af5d2d456e22bb74e3c3d0e4114f89aa0eca422c558562b3d8e326b0707ff3c7754d2c7a13a8b0b4d9ac072e962c653f484d
   languageName: node
   linkType: hard
 
@@ -3046,9 +3046,9 @@ __metadata:
   linkType: hard
 
 "@jridgewell/resolve-uri@npm:^3.1.0":
-  version: 3.1.2
-  resolution: "@jridgewell/resolve-uri@npm:3.1.2"
-  checksum: 10/97106439d750a409c22c8bff822d648f6a71f3aa9bc8e5129efdc36343cd3096ddc4eeb1c62d2fe48e9bdd4db37b05d4646a17114ecebd3bbcacfa2de51c3c1d
+  version: 3.1.3
+  resolution: "@jridgewell/resolve-uri@npm:3.1.3"
+  checksum: 10/c854c2ad7e75c2e3e21d1d44ead336b8bedaf140e3a70ab189767e5c3dc9e6164ae2ca5234ab6c6d88732ae5de6341baa1fbc6a406d1d1d0df601ba9ae4349e6
   languageName: node
   linkType: hard
 
@@ -6281,9 +6281,9 @@ __metadata:
   linkType: hard
 
 "colord@npm:^2.9.3":
-  version: 2.12.0
-  resolution: "colord@npm:2.12.0"
-  checksum: 10/ef859837d66f930d228e791a2f7a77e447d28504cfb17cd57e691cd966454ab2ae438152a51f8d2f75f50fad60193ec427670f92d1e8be19c55096947e197f3f
+  version: 2.13.0
+  resolution: "colord@npm:2.13.0"
+  checksum: 10/5642c323e50c98be37bfd4ecb17d0417e50fe96821b9f1d7d264e62511eeb19c0cb855d3bf0d01eea21a3fda9b3e208186389c83c633a3e9739762250bac1005
   languageName: node
   linkType: hard
 
@@ -7543,14 +7543,14 @@ __metadata:
   linkType: hard
 
 "dompurify@npm:^3.4.17":
-  version: 3.4.17
-  resolution: "dompurify@npm:3.4.17"
+  version: 3.4.18
+  resolution: "dompurify@npm:3.4.18"
   dependencies:
     "@types/trusted-types": "npm:^2.0.7"
   dependenciesMeta:
     "@types/trusted-types":
       optional: true
-  checksum: 10/ae03c068bd351d1201a24a9667cb302c65939f45a0c357edec8b84133108e19ac74f355c2d8b0f30baadadd7f0be2db300d269aa80d3ee15872712ca9ff4e1a8
+  checksum: 10/31e14c5c1dd1156196b71ed648f5f95f78c576f6673120f025c4d4007a05d31ac951e2e9c78a2de578a28eb00e6bbec7cfa7b3617cb6eb231df0d628df94af82
   languageName: node
   linkType: hard
 
@@ -7628,9 +7628,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.464":
-  version: 1.5.483
-  resolution: "electron-to-chromium@npm:1.5.483"
-  checksum: 10/5f4887371d6df83d300e3c1b3e36387714b7eef0c7cf3e21eb274ad442397170a705031b70fc2491f7dcd8c857d9933cd2f8cf8ef61f299005668d929e8fd252
+  version: 1.5.486
+  resolution: "electron-to-chromium@npm:1.5.486"
+  checksum: 10/64e508970365d38e3523d2971f2542cfc216920991cffba0b307a69e3a877b6c962fcea261d4bf228441f31aa953d80671d9f91ef8acb25186a054ac21e1fc43
   languageName: node
   linkType: hard
 
@@ -8743,12 +8743,13 @@ __metadata:
   linkType: hard
 
 "hast-util-to-mdast@npm:^10.0.0":
-  version: 10.1.2
-  resolution: "hast-util-to-mdast@npm:10.1.2"
+  version: 10.1.3
+  resolution: "hast-util-to-mdast@npm:10.1.3"
   dependencies:
     "@types/hast": "npm:^3.0.0"
     "@types/mdast": "npm:^4.0.0"
     "@ungap/structured-clone": "npm:^1.0.0"
+    collapse-white-space: "npm:^2.0.0"
     hast-util-phrasing: "npm:^3.0.0"
     hast-util-to-html: "npm:^9.0.0"
     hast-util-to-text: "npm:^4.0.0"
@@ -8760,7 +8761,7 @@ __metadata:
     trim-trailing-lines: "npm:^2.0.0"
     unist-util-position: "npm:^5.0.0"
     unist-util-visit: "npm:^5.0.0"
-  checksum: 10/ef9b6a5e1be2e2a5091b4f81023a5d316246976fa2e714e7013d0bf826641e1660d91a8793381d7d97599ff86c6a1eeb3284e01005c24433940ebf6a9d3aae25
+  checksum: 10/07028d041248393b3535e214c90e1e2346996922b0ee1bb16f2f1973c34e537aae9ad4a848ad5bf14b750c51be463e93333b9dadf9a671ae295b9318948f54e2
   languageName: node
   linkType: hard
 
@@ -10316,8 +10317,8 @@ __metadata:
   linkType: hard
 
 "mdast-util-to-hast@npm:^13.0.0":
-  version: 13.2.1
-  resolution: "mdast-util-to-hast@npm:13.2.1"
+  version: 13.2.2
+  resolution: "mdast-util-to-hast@npm:13.2.2"
   dependencies:
     "@types/hast": "npm:^3.0.0"
     "@types/mdast": "npm:^4.0.0"
@@ -10328,7 +10329,7 @@ __metadata:
     unist-util-position: "npm:^5.0.0"
     unist-util-visit: "npm:^5.0.0"
     vfile: "npm:^6.0.0"
-  checksum: 10/8fddf5e66ea24dc85c8fe1cc2acd8fbe36e9d4f21b06322e156431fd71385eab9d2d767646f50276ca4ce3684cb967c4e226c60c3fff3428feb687ccb598fa39
+  checksum: 10/760d5706eebfe122f00d608cec54ce6bb60a4340dcc093ee1ddf01121f40a09d38e6aaf329bc3e60893ba49957eeee1e211d6e06f0781975d20aee6f0c82b107
   languageName: node
   linkType: hard
 
@@ -11281,9 +11282,9 @@ __metadata:
   linkType: hard
 
 "node-releases@npm:^2.0.60":
-  version: 2.0.63
-  resolution: "node-releases@npm:2.0.63"
-  checksum: 10/28c18983dcc0a97706357b3f5bec4621657af4c21a2fedae9dcd3eca4fa8b3afc6f9ff2f2e30842bc550d83e870c625c7415f741a7013db699085ea0842eb50f
+  version: 2.0.64
+  resolution: "node-releases@npm:2.0.64"
+  checksum: 10/dde521090a55683812e9daf223d5eabb1e9dccc246f4f44754fba62d1df760d5aded83673a5b19c4fd4a20ea7e32339cac3536453ed4741827a1bbc27eafc23f
   languageName: node
   linkType: hard
 
@@ -12616,13 +12617,13 @@ __metadata:
   linkType: hard
 
 "postcss@npm:^8.4.21, postcss@npm:^8.4.24, postcss@npm:^8.4.33, postcss@npm:^8.5.4":
-  version: 8.5.32
-  resolution: "postcss@npm:8.5.32"
+  version: 8.5.33
+  resolution: "postcss@npm:8.5.33"
   dependencies:
     nanoid: "npm:^3.3.20"
     picocolors: "npm:^1.1.1"
     source-map-js: "npm:^1.2.2"
-  checksum: 10/c86fd279d9f29d34bbec6482e01f54effe00eaf8f4dadbe17f8345d11eac68439da45d642b04bfb5d704886f665d2c31f9a0904f2a3f1b9f8098ee0894f76cea
+  checksum: 10/89136a68865e151c06635707d04e147d0e13d61210927246acfef1ff189663dc6fdb77341a167bf0ac235c0683e7c2af21ac43672660795d22d759cb66134406
   languageName: node
   linkType: hard
 
@@ -12861,9 +12862,9 @@ __metadata:
   linkType: hard
 
 "react-fast-compare@npm:^3.2.0":
-  version: 3.2.2
-  resolution: "react-fast-compare@npm:3.2.2"
-  checksum: 10/a6826180ba75cefba1c8d3ac539735f9b627ca05d3d307fe155487f5d0228d376dac6c9708d04a283a7b9f9aee599b637446635b79c8c8753d0b4eece56c125c
+  version: 3.2.3
+  resolution: "react-fast-compare@npm:3.2.3"
+  checksum: 10/96306b67cd6d895135642797a27c4593a0c205f6dfa3504afb20d1a27a7b3b979117bce1492ed0aa42398548cae42f37cb6d9a3364ce376866c17209d18bcc0d
   languageName: node
   linkType: hard
 
@@ -14238,9 +14239,9 @@ __metadata:
   linkType: hard
 
 "tapable@npm:^2.0.0, tapable@npm:^2.2.1, tapable@npm:^2.3.0, tapable@npm:^2.3.3":
-  version: 2.3.3
-  resolution: "tapable@npm:2.3.3"
-  checksum: 10/21fb64a7ae1a0e11d855a6c33a22ae5ecf7e2f23170c942da673b44bf4c3aae8aa52451ef2792d0ce36c7feca13dceafa4f135105d66fc06912632488c0913fd
+  version: 2.3.4
+  resolution: "tapable@npm:2.3.4"
+  checksum: 10/31de6d1ad41fabcc91f2541b17e430cd3a8a56e2d430a7a44c971cc149a787ef39ec9bd9777df833ad75598beb337d1ec6140b7a81659a4a999718e06698034a
   languageName: node
   linkType: hard
 
